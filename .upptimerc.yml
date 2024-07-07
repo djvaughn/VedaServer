@@ -19,7 +19,7 @@ status-website:
   logoUrl: https://seeklogo.com/images/G/gundam-00-celestial-being-logo-E6E4232905-seeklogo.com.png
   name: "Veda Server Status"
   introTitle: Veda Server Status
-  theme: dark
+  theme: night
   publish: true
 i18n:
   footer: ""
