@@ -7,6 +7,9 @@ sites:
     url: $PLEX_URL/identity
     __dangerous__insecure: true
     icon: https://app.plex.tv/desktop/favicon.ico
+  - name: Ombi
+    url: $OMBI_URL
+    icon: https://avatars.githubusercontent.com/u/76852098?s=200&v=4
     
 assignees: # Users to assign downtime issues (optional)
   - djvaughn
