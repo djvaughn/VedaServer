@@ -4,7 +4,7 @@ repo: VedaServer # The name of this repository
 
 sites:
   - name: Plex
-    url: https://67.11.34.105:32400/identity
+    url: https://67.11.34.105:32400
 assignees: # Users to assign downtime issues (optional)
   - djvaughn
 
