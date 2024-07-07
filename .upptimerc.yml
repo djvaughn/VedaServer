@@ -13,6 +13,9 @@ sites:
   - name: Bitwarden
     url: $BITWARDEN_URL
     icon: https://static-00.iconduck.com/assets.00/bitwarden-v2-icon-1024x1024-smpahpm0.png
+  - name: Tautulli
+    url: $TAUTULLI_URL
+    icon: https://tautulli.com/images/logo-circle.png
     
 assignees: # Users to assign downtime issues (optional)
   - djvaughn
