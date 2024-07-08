@@ -36,7 +36,7 @@ status-website:
   - title: Request a Movie or Show
     href: https://request.vedaserver.com
   - title: My Stats
-    href: https://history.vedaserver.com
+    href: https://history.vedaserver.com/home
   - title: Status
     href: /
 
