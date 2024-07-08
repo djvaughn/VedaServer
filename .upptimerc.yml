@@ -34,9 +34,9 @@ status-website:
   - title: Donate or Buy me Coffee
     href: https://account.venmo.com/u/djvaughn88
   - title: Request a Movie or Show
-    href: $OMBI_URL
+    href: https://request.vedaserver.com
   - title: My Stats
-    href: $TAUTULLI_URL
+    href: https://tautulli.vedaserver.com
   - title: Status
     href: /
 
