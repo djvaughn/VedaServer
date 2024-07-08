@@ -30,9 +30,23 @@ status-website:
   introTitle: Veda Server Status
   theme: night
   publish: true
+  navbar:
+  - title: Donate or Buy me Coffee
+    href: https://account.venmo.com/u/djvaughn88
+  - title: Request a Movie or Show
+    href: $OMBI_URL
+  - title: My Stats
+    href: $TAUTULLI_URL
+  - title: Status
+    href: /
+
+
+
 i18n:
   footer: ""
+
 robotsText: "User-agent: * \n Disallow: /"
+
 workflowSchedule:
   graphs: "0 0 * * *"
   responseTime: "0 23 * * *"
