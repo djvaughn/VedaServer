@@ -53,19 +53,19 @@
     "url": "$BITWARDEN_URL",
     "icon": "https://static-00.iconduck.com/assets.00/bitwarden-v2-icon-1024x1024-smpahpm0.png",
     "slug": "bitwarden",
-    "status": "up",
-    "uptime": "99.98%",
-    "uptimeDay": "99.07%",
-    "uptimeWeek": "99.87%",
-    "uptimeMonth": "99.97%",
-    "uptimeYear": "99.98%",
+    "status": "down",
+    "uptime": "100.00%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
+    "uptimeYear": "100.00%",
     "time": 270,
-    "timeDay": 660,
-    "timeWeek": 376,
+    "timeDay": 565,
+    "timeWeek": 366,
     "timeMonth": 306,
     "timeYear": 270,
     "dailyMinutesDown": {
-      "2024-09-05": 13
+      "2024-09-05": 0
     }
   },
   {
